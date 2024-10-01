@@ -1,10 +1,10 @@
 # Hi, stranger 👋
 
-## 💫 About Me:
+## 💫 About Me
 __Hi, I'm a software engineer__ 👨‍💻
-<br>🐧 I love messing around with Linux <br> 📚 I like to learn new things<br> 🔐🔍 Diving into topics related to security and blockchain circumvention<br> 📫 How to contact me: xzqtbl@gmail.com
+<br>🐧 I love messing around with Linux <br> 📚 I like to learn new things<br> 🔐🔍 I love diving into topics related to security and circumventing censorship blockades<br> 📫 How to contact me: xzqtbl@gmail.com
 
-## 💻 Technologies & Tools:
+## 💻 Technologies & Tools
 
 __Here are some of the tools and technologies I work with__.
 <div align="center">
@@ -34,7 +34,7 @@ __Here are some of the tools and technologies I work with__.
     <img src="https://img.shields.io/badge/Keycloak-003366?style=flat&logo=keycloak&logoColor=white" alt="Keycloak"/>
 </div>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=bitchofson&show_icons=true&theme=dark&rank_icon=github" alt="Anurag's GitHub stats"/>
