@@ -37,13 +37,12 @@ __Here are some of the tools and technologies I work with__.
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bitchofson&show_icons=true&theme=dark&rank_icon=github" alt="Anurag's GitHub stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitchofson&theme=dark&hide_border=false" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yend0&show_icons=true&theme=dark&rank_icon=github" alt="Anurag's GitHub stats"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=bitchofson&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yend0&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bitchofson&icon=6&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yend0&icon=6&color=6)](https://visitcount.itsvg.in)
