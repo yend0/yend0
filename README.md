@@ -45,4 +45,3 @@ __Here are some of the tools and technologies I work with__.
 ![](https://github-profile-trophy.vercel.app/?username=yend0&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yend0&icon=6&color=6)](https://visitcount.itsvg.in)
